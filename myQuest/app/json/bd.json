@@ -1,0 +1,31 @@
+{
+  "level_1": [{
+    "images": "images/level1_complete.gif",
+    "text": "DNGKMLMLS;MGMER;MG;L",
+    "questions": [{
+      "question_1": "Вопрос 1",
+      "question_2": "Вопрос 2",
+      "question_3": "Вопрос 3"
+      }]
+    }],
+  "level_2": [{
+    "images": "Алгоритмы для начинающих",
+    "text": 2018,
+    "question": "Панос Луридас"
+  }],
+  "level_3": [{
+    "images": "Алгоритмы для начинающих",
+    "text": 2018,
+    "question": "Панос Луридас"
+  }],
+  "level_4": [{
+    "images": "Алгоритмы для начинающих",
+    "text": 2018,
+    "question": "Панос Луридас"
+  }],
+  "level_5": [{
+    "images": "Алгоритмы для начинающих",
+    "text": 2018,
+    "question": "Панос Луридас"
+  }]
+}
